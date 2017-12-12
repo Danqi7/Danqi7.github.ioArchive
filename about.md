@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am **Danqi Liao (廖丹琪)**, a undergrad CS student at Northwestern University. I enjoy building stuff and learning about tech/startup news. Found more about me at [my personal website](http://danqiliao.com).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Motivation for starting my blog: More often than not, I found myself disappointed with current news outlets: they tend to report more on sensational and negative news and publish news with a more sensational title/headline. Tired of same old sensational news, I begin to search meaningful news and interesting blogs/articles by myself and more importantly I want to share what I've found with people who might found them too, meaningful and interesting.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+我是**廖丹琪**, 目前是美国西北大学本科生，主修计算机科学。我喜欢自己动手写东西，我也喜欢了解科技和初创公司。（[我的个人网站](http://danqiliao.com)).
 
-
-[jekyll-organization]: https://github.com/jekyll
+开这个博客的动力：对主流媒体和流行新闻感到失望，因为主流媒体和流行新闻更倾向于报道有争议的，负面性的新闻。标题党太多。在有意思的新闻／文章越来越少的情况下，我开始自己寻找有意思的文章和新闻。我一向秉承的想法就是，独乐乐不如众乐乐，所以希望能把有意思有趣的新闻／文章分享给大家。

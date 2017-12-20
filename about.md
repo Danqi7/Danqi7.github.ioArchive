@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-I am **Danqi Liao (廖丹琪)**, a undergrad CS student at Northwestern University. I enjoy building stuff and learning about tech/startup news. Found more about me at [my personal website](http://danqiliao.com).
+I am **Danqi Liao (廖丹琪)**, an undergrad student studying Computer Science at Northwestern University. I enjoy building stuff and learning about tech/startup news. Find more about me at [my personal website](http://danqiliao.com).
 
-Motivation for starting my blog: More often than not, I found myself disappointed with current news outlets: they tend to report more on sensational and negative news and publish news with a more sensational title/headline. Tired of same old sensational news, I begin to search meaningful news and interesting blogs/articles by myself and more importantly I want to share what I've found with people who might found them too, meaningful and interesting.
+Motivation for starting my blog: More often than not, I found myself disappointed with current news outlets: they tend to report more on sensational/negative news, and publish news with even more sensational titles/headlines. Tired of same old sensational news, I start to search meaningful news and interesting blogs/articles by myself. More importantly I want to share with people the pieces that are worthy reading.
 
 我是**廖丹琪**, 目前是美国西北大学本科生，主修计算机科学。我喜欢自己动手写东西，我也喜欢了解科技和初创公司。（[我的个人网站](http://danqiliao.com)).
 

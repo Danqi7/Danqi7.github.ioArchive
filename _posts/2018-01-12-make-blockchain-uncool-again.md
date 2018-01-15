@@ -3,6 +3,7 @@ layout: post
 title:  "不装逼的比特币，区块链入门"
 date:   2018-01-12 17:17:07 +0800
 categories: jekyll original
+comments: true
 ---
 
 目录:
